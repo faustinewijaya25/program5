@@ -24,9 +24,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/pweb201/srv1/html/program05/ci/';
+$config['base_url'] = 'http://51018006.p-web.click/program5';
 
-$config['index_page'] ='http://localhost/pweb201/srv1/html/program05/ci/index.html/tentang_saya';
+$config['index_page'] ='';
 /*
 |--------------------------------------------------------------------------
 | Index File
