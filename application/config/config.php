@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://51018006.p-web.click/program5';
+$config['base_url'] = 'https://51018006.p-web.click/program5';
 
 $config['index_page'] ='';
 /*
