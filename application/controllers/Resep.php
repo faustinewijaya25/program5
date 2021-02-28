@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 
-class Resep extends CI_Controller {
+class resep extends CI_Controller {
 
 	public function index()
 	{
@@ -32,5 +32,5 @@ class Resep extends CI_Controller {
   {
     $this->load->view('resep/seblakbandung');
   }
-} 
+}
   ?>
