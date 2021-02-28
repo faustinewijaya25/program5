@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 
-class resep extends CI_Controller {
+class Resep extends CI_Controller {
 
 	public function index()
 	{
